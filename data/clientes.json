@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camilo Sexto",
+        "imail": "cs@gmail.com",
+        "telefono": "+573215869625"
+    },
+    {
+        "id": 2,
+        "nombre": "Dayra Cano",
+        "imail": "dc@gmail.com",
+        "telefono": "+573002568123"
+    }
+]
